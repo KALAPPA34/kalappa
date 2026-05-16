@@ -56,13 +56,7 @@ Year: **2024**
 - Location: Raichur District, Karnataka
 
 
-## 🔗 GitHub
-
-Add your GitHub profile link here:
-
-```bash
-https://github.com/KALAPPA34
-
-### LinkedIn
-`bash
-https://www.linkedin.com/in/kalappa-shindhe-645560365?utm_source=share_via&utm_content=profile&utm_medium=member_android
+## Connect With Me
+- LinkedIn:https://www.linkedin.com/in/kalappa-shindhe-645560365
+- GitHub: https://github.com/KALAPPA34
+- Email:kalappashindhe14@gmail.com
